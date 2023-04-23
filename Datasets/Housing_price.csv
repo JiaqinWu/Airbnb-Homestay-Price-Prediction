@@ -1,0 +1,178 @@
+﻿Rank,City,Price per Square Meter to Buy Apartment 
+1,"Zurich, Switzerland",22835.78
+2,"Geneva, Switzerland",18112.01
+3,"London, United Kingdom",15154.73
+4,"Lausanne, Switzerland",14848.88
+5,"Munich, Germany",13229.05
+6,"Paris, France",13130.73
+7,"Luxembourg, Luxembourg",12346.89
+8,"Stockholm, Sweden",10574.91
+9,"Bern, Switzerland",9982.19
+10,"Basel, Switzerland",9773.26
+11,"Frankfurt, Germany",9651.5
+12,"Milan, Italy",9544.02
+13,"Hamburg, Germany",8763.45
+14,"Berlin, Germany",8707.22
+15,"Oslo, Norway",8674.7
+16,"Vienna, Austria",8663.56
+17,"Amsterdam, Netherlands",8647.36
+18,"Prague, Czech Republic",8413.79
+19,"Trondheim, Norway",8406.2
+20,"Stuttgart, Germany",8375.89
+21,"Innsbruck, Austria",8335.74
+22,"Saint Helier, Jersey",8326.9
+23,"Cambridge, United Kingdom",8171.84
+24,"Copenhagen, Denmark",7978.39
+25,"Dublin, Ireland",7874.27
+26,"Helsinki, Finland",7873.46
+27,"Espoo, Finland",7768.6
+28,"Rome, Italy",7511.8
+29,"Heidelberg, Germany",7468.83
+30,"Dusseldorf, Germany",7343.45
+31,"Moscow, Russia",7291.96
+32,"Nice, France",7052.24
+33,"Salzburg, Austria",6962.97
+34,"Haarlem, Netherlands",6836.26
+35,"Nuremberg, Germany",6660.6
+36,"Lisbon, Portugal",6433.68
+37,"Nantes, France",6355.94
+38,"Arhus, Denmark",6351.71
+39,"Utrecht, Netherlands",6328.25
+40,"Graz, Austria",6128.55
+41,"Cologne, Germany",6119.38
+42,"Reykjavik, Iceland",6020.2
+43,"Tromso, Norway",5974.11
+44,"Bergen, Norway",5935.21
+45,"Lyon, France",5908.37
+46,"Madrid, Spain",5844.44
+47,"Cascais, Portugal",5734.99
+48,"Florence, Italy",5697.65
+49,"Gothenburg, Sweden",5684.5
+50,"Edinburgh, United Kingdom",5649.86
+51,"Darmstadt, Germany",5601.62
+52,"Barcelona, Spain",5547.83
+53,"Stavanger, Norway",5510.73
+54,"Brno, Czech Republic",5461.53
+55,"Glasgow, United Kingdom",5395.85
+56,"Bratislava, Slovakia",5217.58
+57,"Rotterdam, Netherlands",5009.68
+58,"The Hague (Den Haag), Netherlands",4933.22
+59,"Marseille, France",4908.09
+60,"Liverpool, United Kingdom",4812.2
+61,"Manchester, United Kingdom",4788.13
+62,"Ljubljana, Slovenia",4749.08
+63,"Palma de Mallorca, Spain",4648.84
+64,"Eindhoven, Netherlands",4643.22
+65,"Gdynia, Poland",4622.45
+66,"Toulouse, France",4614.67
+67,"Derby, United Kingdom",4597.32
+68,"Warsaw, Poland",4589.19
+69,"Turku, Finland",4534.64
+70,"Tampere, Finland",4502.63
+71,"Linz, Austria",4501.3
+72,"Sliema, Malta",4442.04
+73,"Aalborg, Denmark",4438.51
+74,"Bologna, Italy",4435.22
+75,"Plzen, Czech Republic",4434.28
+76,"Dresden, Germany",4415.94
+77,"Vilnius, Lithuania",4398.54
+78,"Zagreb, Croatia",4261.49
+79,"Brussels, Belgium",4209.49
+80,"Gdansk, Poland",4204.4
+81,"Malmo, Sweden",4182.5
+82,"Naples, Italy",4178.99
+83,"Tallinn, Estonia",4153.35
+84,"Galway, Ireland",4065.71
+85,"Malaga, Spain",3988.56
+86,"Uppsala, Sweden",3962.89
+87,"Cork, Ireland",3959.5
+88,"Krakow (Cracow), Poland",3915.2
+89,"Antwerp, Belgium",3905.78
+90,"Dubrovnik, Croatia",3897.25
+91,"Belfast, United Kingdom",3877.48
+92,"Budapest, Hungary",3821.05
+93,"Saint Petersburg, Russia",3810.31
+94,"Villach, Austria",3801.8
+95,"Turin, Italy",3711.18
+96,"Split, Croatia",3700.54
+97,"Coventry, United Kingdom",3568.59
+98,"Gent, Belgium",3562.36
+99,"Grenoble, France",3527.01
+100,"Porto, Portugal",3523.75
+101,"Treviso, Italy",3518.04
+102,"Belgrade, Serbia",3502.29
+103,"Groningen, Netherlands",3457.48
+104,"Seville (Sevilla), Spain",3429.56
+105,"Olomouc, Czech Republic",3408.64
+106,"Kosice, Slovakia",3294.04
+107,"Cluj-Napoca, Romania",3233.52
+108,"Cagliari, Italy",3222.26
+109,"Granada, Spain",3200.93
+110,"Aberdeen, United Kingdom",3149.65
+111,"Kaunas, Lithuania",3113.37
+112,"Tartu, Estonia",3106.55
+113,"Poznan, Poland",3099.23
+114,"Zadar, Croatia",3078.98
+115,"Wroclaw, Poland",3074.65
+116,"Budva, Montenegro",2952.33
+117,"Valencia, Spain",2851.38
+118,"Sofia, Bulgaria",2763.28
+119,"Athens, Greece",2738.9
+120,"Vladivostok, Russia",2667.37
+121,"Rijeka, Croatia",2644.67
+122,"Novi Sad, Serbia",2594.58
+123,"Bucharest, Romania",2586.79
+124,"Katowice, Poland",2575.31
+125,"Riga, Latvia",2573.01
+126,"Ostrava, Czech Republic",2493.67
+127,"Coimbra, Portugal",2464.53
+128,"Tirana, Albania",2459.96
+129,"Sarajevo, Bosnia And Herzegovina",2409.52
+130,"Thessaloniki, Greece",2403.17
+131,"Alicante, Spain",2382.91
+132,"Kazan, Russia",2355.27
+133,"Debrecen, Hungary",2324.69
+134,"Szeged, Hungary",2308.08
+135,"Szczecin, Poland",2268.3
+136,"Santa Cruz de Tenerife, Spain",2241.5
+137,"Klaipeda, Lithuania",2234.67
+138,"Krasnodar, Russia",2142.58
+139,"Lodz, Poland",2138.91
+140,"Maribor, Slovenia",2120.61
+141,"Kiev (Kyiv), Ukraine",2061.24
+142,"Timisoara, Romania",2034.81
+143,"Kaliningrad, Russia",1997.8
+144,"Larissa, Greece",1992.04
+145,"Novosibirsk, Russia",1985.38
+146,"Yekaterinburg, Russia",1978.38
+147,"Nizhny Novgorod, Russia",1977.16
+148,"Pristina, Kosovo (Disputed Territory)",1966.87
+149,"Iasi, Romania",1935.53
+150,"Constanta, Romania",1933.12
+151,"Banja Luka, Bosnia And Herzegovina",1919.9
+152,"Minsk, Belarus",1911.35
+153,"Catania, Italy",1902.77
+154,"Podgorica, Montenegro",1897.82
+155,"Skopje, North Macedonia",1864.43
+156,"Nis, Serbia",1826.98
+157,"Palermo, Italy",1820.9
+158,"Ufa, Russia",1785.48
+159,"Osijek, Croatia",1783.21
+160,"Samara, Russia",1735.73
+161,"Tuzla, Bosnia And Herzegovina",1733.68
+162,"Varna, Bulgaria",1731.93
+163,"Brasov, Romania",1729.27
+164,"Oradea, Romania",1684.15
+165,"Rostov-na-donu, Russia",1631.28
+166,"Sibiu, Romania",1614.29
+167,"Perm, Russia",1579.88
+168,"Craiova, Romania",1578.77
+169,"Tomsk, Russia",1439.06
+170,"Voronezh, Russia",1434.07
+171,"Lviv, Ukraine",1349.55
+172,"Chisinau, Moldova",1310.99
+173,"Plovdiv, Bulgaria",1302.91
+174,"Kharkiv, Ukraine",1254.46
+175,"Odessa (Odesa), Ukraine",1225.67
+176,"Dnipro, Ukraine",1107
+177,"Chelyabinsk, Russia",1001.49
